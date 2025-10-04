@@ -1,4 +1,4 @@
-# Implementasi Transformer Decoder dari Nol (NumPy)
+# Transformer from scratch using NumPy
 
 ## Deskripsi Singkat
 Proyek ini adalah implementasi **decoder-only Transformer (GPT-style)** menggunakan **NumPy**.  
